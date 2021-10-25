@@ -25,3 +25,4 @@
 
 - Dans votre navigateur, lancez l'adresse __http://localhost/TP1_Session1_DespierresTrystan/index.php__
 - 3 choix sont alors possibles : __Connexion__, __Réinitialiser les données entrées__, ou __Ajouter un nouveau compte__
+- Les informations de connexions de base sont les suivantes email: securitetp1@mail.com et mot de passe: 6EO^hhp@SumTYw2lHi2K
